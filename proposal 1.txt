@@ -1,0 +1,25 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program? :Image Compressor
+
+2. What real-world problem will your program address or help to solve?:It will solve the challenges faced by developers in compressing images to be uploaded to their web projects. 
+
+3. What will you learn from developing this program?: I will learn how to import various modules and how image compression works.
+
+4. What Python modules will your program use?:  tkinter, OpenCV, PIL, File dialog, message box.
+
+    
+5. List the names of functions you will need?: Compress Image, Open Image, Image resize.
+
+    
+6. List the names of the test functions you will write.:Load and Save Image, Color Space conversion, Image Resize.
+
